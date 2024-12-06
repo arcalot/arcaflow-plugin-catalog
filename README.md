@@ -51,7 +51,7 @@ plugins are maintained for compatibility and updates of dependencies.
 | [arcaflow-plugin-uperf](https://github.com/arcalot/arcaflow-plugin-uperf) | Handles all components of uperf to run the given benchmark profile | active | 0.5.0 | [quay.io/arcalot/arcaflow-plugin-uperf:0.5.0](quay.io/arcalot/arcaflow-plugin-uperf:0.5.0) |
 | [arcaflow-plugin-utilities](https://github.com/arcalot/arcaflow-plugin-utilities) | Used to store common utility functions used by various plugins/workflows. Where each step of the plugin corresponds to a different utility functionality. Refer to individual step functions in arcaflow_plugin_utilities.py to see what input is expected for each step. | active | 0.7.0 | [quay.io/arcalot/arcaflow-plugin-utilities:0.7.0](quay.io/arcalot/arcaflow-plugin-utilities:0.7.0) |
 
-## In-Development Plugins
+### In-Development Plugins
 
 These plugins may be in various states of development, with or without CI automation in
 place. Please see the individual plugin repos for details.
