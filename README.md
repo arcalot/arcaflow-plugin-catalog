@@ -58,8 +58,7 @@ place. Please see the individual plugin repos for details.
 
 | Plugin | Description | Support Status | Latest Version | Container Path |
 | :----- | :---------- | :------------: | :------------: | :------------- |
-| [arcaflow-plugin-aws-ec2-control](https://github.com/arcalot/arcaflow-plugin-aws-ec2-control) | Runs AWS EC2 actions | development | N/A | [quay.io/arcalot/arcaflow-plugin-aws-ec2-control:latest](quay.io/arcalot/arcaflow-plugin-aws-ec2-control:latest) |
-
+| None | ||||
 ### Archived Plugins
 
 These plugins have been archived, and as a result are effectively frozen at their last
@@ -81,3 +80,4 @@ but the released container builds should remain avalable in the Quay image repos
 | [arcaflow-plugin-service](https://github.com/arcalot/arcaflow-plugin-service) | creates a Kubernetes service for the given specification | archived | 0.2.1 | [quay.io/arcalot/arcaflow-plugin-service:0.2.1](quay.io/arcalot/arcaflow-plugin-service:0.2.1) |
 | [arcaflow-plugin-smallfile](https://github.com/arcalot/arcaflow-plugin-smallfile) | A workload plugin of the smallfile benchmark tool | archived | 0.2.0 | [quay.io/arcalot/arcaflow-plugin-smallfile:0.2.0](quay.io/arcalot/arcaflow-plugin-smallfile:0.2.0) |
 | [arcaflow-plugin-wait](https://github.com/arcalot/arcaflow-plugin-wait) | Introduces a pause during workflow execution *(Use the `wait` step of [arcaflow-plugin-utilities](https://github.com/arcalot/arcaflow-plugin-utilities) instead)* | archived | 0.2.0 | [quay.io/arcalot/arcaflow-plugin-wait:0.2.0](quay.io/arcalot/arcaflow-plugin-wait:0.2.0) |
+| [arcaflow-plugin-aws-ec2-control](https://github.com/arcalot/arcaflow-plugin-aws-ec2-control) | Runs AWS EC2 actions | archived | N/A | [quay.io/arcalot/arcaflow-plugin-aws-ec2-control:latest](quay.io/arcalot/arcaflow-plugin-aws-ec2-control:latest) |
